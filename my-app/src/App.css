@@ -1,0 +1,8 @@
+.container{
+    background-color: rgb(3, 3, 47);
+    color: azure;
+    display: flex;
+    justify-content: center;
+    padding-top: 10vh;
+    height: 100vh;
+}
